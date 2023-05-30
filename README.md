@@ -4,8 +4,10 @@ to use make sure you have an SQL database running on either local host or remote
 once SQL server is running then edit the hibernate.cf.xml lines:<br>
 '''xml
         <property name="connection.url">jdbc:mysql://localhost/sms?createDatabaseIfNotExist=true</property><br>
+        '''
         '''xml
         <property name="connection.username"></property><br>
+        '''
         '''xml
         <property name="connection.password"></property><br>
         '''
