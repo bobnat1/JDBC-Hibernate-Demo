@@ -6,7 +6,7 @@
     <session-factory>
         <property name="hibernate.hbm2ddl.auto">update</property>
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="connection.url">jdbc:mysql://192.168.0.107/sms?createDatabaseIfNotExist=true</property>
+        <property name="connection.url">jdbc:mysql://localhost/sms?createDatabaseIfNotExist=true</property>
         <property name="connection.username"></property>
         <property name="connection.password"></property>
         <property name="dialect">org.hibernate.dialect.MySQL8Dialect   </property>
