@@ -1,5 +1,5 @@
 # JDBC-Hibernate-Demo
-a simple demo showcasing JDBC and Hibernate to save/retrieve persistent entities to an SQL database\n
+a simple demo showcasing JDBC and Hibernate to save/retrieve persistent entities to an SQL database<br>
 to use make sure you have an SQL database running on either local host or remote
 once SQL server is running then edit the hibernate.cf.xml lines:
         <property name="connection.url">jdbc:mysql://localhost/sms?createDatabaseIfNotExist=true</property>
