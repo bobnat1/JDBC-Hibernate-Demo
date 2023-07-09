@@ -1,8 +1,8 @@
 # JDBC-Hibernate-Demo
-
-# Features
 a simple demo showcasing JDBC and Hibernate to save/retrieve persistent entities to an SQL database<br>
 
+# Features
+Save and Retrieve persistent entities to a MySQL server
 # Usage
 make sure you have an SQL database running on either local host or remote<br>
 once SQL server is running then edit the hibernate.cf.xml lines:<br>
